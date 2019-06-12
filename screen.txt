@@ -1,0 +1,28 @@
+if getting sudo errors do -> sudo /etc/init.d/screen-cleanup start
+
+https://www.youtube.com/watch?v=I4xVn6Io5Nw&t=5s
+
+screen
+screen -S name_of_session
+
+Ctrl + a, d -> detach
+screen -ls
+screen -r PID/name_of_session
+exit to kill that session
+
+Can have multiple windows within a session
+
+Ctrl + a, c -> makes a new window
+Ctrl + a, w -> lists the number of windows
+Ctrl + a, p/n -> previous, next window
+
+Ctrl + a, k -> kill current window
+Ctrl + a, " -> view windows in current name_of_session
+Ctrl + a, A -> rename current window 
+
+Ctrl + a, | -> makes a vertical cut, new pane
+Ctrl + a, S -> makes a horizontal cut, new pane
+Ctrl + a, Tab -> changes cursor to other tab
+Ctrl + a, X -> closes pane
+
+screen -X -S name_of_session quit -> force quit

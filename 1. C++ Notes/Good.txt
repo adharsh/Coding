@@ -1,0 +1,13 @@
+Review every weekend:
+1. http://www.cplusplus.com/doc/tutorial/
+    Add on to these notebooks
+
+2. https://www.youtube.com/user/BoQianTheProgrammer -> advanced C++ stuff
+    Add on to these notebooks
+
+
+3. Then the notebooks
+
+
+4. Then read each chapter's hints on how to do problems
+    clues/strategies on how to appraoch
