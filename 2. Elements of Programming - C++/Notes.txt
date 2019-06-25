@@ -1,0 +1,4 @@
+Can always use auxiliary methods
+Think recursion
+If string, perform from the back
+If neededin O(1) time, use the data itself

@@ -1,3 +1,8 @@
+When doing problems, if stuck look at beginning of the chapter and review hints
+
+first refactor problems so far
+    put tips at the beginning
+
 Review every weekend:
 1. http://www.cplusplus.com/doc/tutorial/
     Add on to these notebooks
@@ -11,3 +16,4 @@ Review every weekend:
 
 4. Then read each chapter's hints on how to do problems
     clues/strategies on how to appraoch
+    

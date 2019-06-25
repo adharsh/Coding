@@ -1,2 +1,0 @@
-Each problem -> # -> with Problem number too
-Each formula -> ##
