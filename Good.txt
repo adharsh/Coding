@@ -12,7 +12,10 @@ Review every weekend:
 
 
 3. Then the notebooks
+Also link 2. Elements of Programming notebooks to 1. C++ notebooks
+https://stackoverflow.com/a/23934226
 
+Do any problem requests here as well
 
 4. Then read each chapter's hints on how to do problems
     clues/strategies on how to appraoch
