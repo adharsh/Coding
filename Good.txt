@@ -20,3 +20,9 @@ Do any problem requests here as well
 4. Then read each chapter's hints on how to do problems
     clues/strategies on how to appraoch
     
+Questions:
+If using unqiue_ptrs, if parameter -> const&  
+Why const&?
+http://talk.elementsofprogramminginterviews.com/t/10-1-passing-const-unique-ptr-by-reference/312/2
+
+shared_prt const stuff from chptr8
