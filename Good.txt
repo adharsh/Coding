@@ -26,3 +26,10 @@ Why const&?
 http://talk.elementsofprogramminginterviews.com/t/10-1-passing-const-unique-ptr-by-reference/312/2
 
 shared_prt const stuff from chptr8
+
+
+nbextensions:
+Python Markdown (for values in the markdown)
+Initialization Cells
+table_beautifier
+Move Selected Cells
